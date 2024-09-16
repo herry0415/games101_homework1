@@ -1,4 +1,5 @@
 // clang-format off
+//hello_main
 #include <iostream>
 #include <opencv2/opencv.hpp>
 #include "rasterizer.hpp"
